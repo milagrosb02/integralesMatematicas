@@ -1,0 +1,10 @@
+﻿  Integrales.cpp
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(259,27): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(305,27): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(357,27): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(392,27): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(593,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(596,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(599,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Integrales\Integrales.cpp(691,27): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Integrales.vcxproj -> C:\Users\Usuario\source\repos\Integrales\x64\Debug\Integrales.exe
