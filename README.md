@@ -1,6 +1,5 @@
 # ⭐️ Integrales Matemáticas ⭐️
 
-> Descripción
  > Programa creado para la resolución de integrales definidas de tres términos. (El resultado no está simplificado).
 
 ## Built With
