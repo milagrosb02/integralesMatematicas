@@ -25,6 +25,14 @@
      - Primero escribe el de b, y luego el de a. Importante: si ingresas numeros negativos , el resultado puede contener errores. Al igual que si ingresas 0 o 2 en a.
 - 5. Ejecuta el programa con "ctrl + F5".
 
+# Execution of calculations 
+- 1. Una vez ingresado todos los datos pedidos, se mostrara en la pantalla la impresión de la integral junto con sus intervalos.
+- 2. Separa las constantes junto a sus dx.
+- 3. Realiza el paso de sumarle + 1 al exponente y luego colocar ese resultado abajo como fracción.
+- 4. Separa las fraccciones en 2 terminos para poder aplicar la regal de Barrow.
+- 5. Halla el resultado de ambos paréntesis. Es decir, se imprimen dos resultados.
+- 6. Suma o resta los numeradores dependiendo el ejercicio ingresado y el denominador sigue siendo el mismo. Este es el resultado final. No contiene redondeo.
+
 
 # Additional notes
 ## Para la realización de este programa use un par de librerias. Están incluidas en el código.
